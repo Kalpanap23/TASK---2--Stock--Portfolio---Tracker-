@@ -1,0 +1,7 @@
+STOCK PORTFOLIO REPORT
+==============================
+AAPL | Price: 180 | Qty: 5 | Investment: 900
+TSLA | Price: 250 | Qty: 2 | Investment: 500
+MSFT | Price: 300 | Qty: 3 | Investment: 900
+
+Total Investment = 2300
